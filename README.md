@@ -1,8 +1,8 @@
 
 <h3>Oi</h3>
-<h2>Eu sou um Analista de TI, buscando uma oportunidade de migrar para a área de programação, afim de colaborar nos mais diversos projetos de Front-End.</h2>
-<h2>-Atualmente estou em um programa para capacitar desenvolvedores FullStack, onde estou aprimorando minhas habilidades em programação e aprendendo mais sobre os frameworks. </h2>
-<h2>-Estou estudando pelo Devmedia e tenho o apoio da minha namorada para estudar pela Alura. </h2>
+<h5>Eu sou um Analista de TI, buscando uma oportunidade de migrar para a área de programação, afim de colaborar nos mais diversos projetos de Front-End.</h5>
+<h5>-Atualmente estou em um programa para capacitar desenvolvedores FullStack, onde estou aprimorando minhas habilidades em programação e aprendendo mais sobre os frameworks. </h5>
+<h5>-Estou estudando pelo Devmedia e tenho o apoio da minha namorada para estudar pela Alura. </h5>
 
 
 <h3>Contatos 📞</h3>
@@ -32,6 +32,8 @@
 <img align="center" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white " />
 <img align="center" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white " />
 </a>
+
+<br>
 
 <a href="https://github.com/luizguilhermeh">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizguilhermeh&layout=compact&langs_count=7"style="max-width: 100%;"></a>
