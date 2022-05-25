@@ -17,8 +17,8 @@ Eu sou um Analista de TI, buscando uma oportunidade de migrar para a área de pr
 <a href="https://pt.stackoverflow.com/users/199423/luizguilhermeh"> 
 <img align="center" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a> 
 
-<a href="tel:+55062982377912">
-<img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a> 
+<a href="tel:+5562982377912"></a> 
+<img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
 
 
 
@@ -33,6 +33,5 @@ Eu sou um Analista de TI, buscando uma oportunidade de migrar para a área de pr
 <img align="center" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white " />
 </a>
 
-<a>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizguilhermeh&layout=compact)](https://github.com/luizguilhermeh/github-readme-stats)
 </a>
