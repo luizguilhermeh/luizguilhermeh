@@ -38,5 +38,3 @@
 
 <a href="https://github.com/luizguilhermeh">
 <img src= "https://github-readme-stats.vercel.app/api?username=luizguilhermeh&show_icons=true&theme=radical"></a>
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=luizguilhermeh&show_icons=true&theme=radical)
