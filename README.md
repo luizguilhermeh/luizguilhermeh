@@ -5,9 +5,9 @@
 <h4>-Estou estudando pelo Devmedia e tenho o apoio da minha namorada para estudar pela Alura. </h4>
 <h4>-Estou aprimorando minhas soft skills, trabalhando meu relacionamento humano para fortalecer minhas habilidades subjetivas</h4>
 
-<a>
+
 <h3>Contatos 📞</h3>
-</a>
+
 <a href="https://github.com/luizguilhermeh"> </a>
 
 <a href="https://www.linkedin.com/in/luizguilhermecosta/" rel="nofollow"> 
@@ -34,6 +34,6 @@
 <img align="center" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white " />
 </a>
 
-|<br/>
+|<br>
 <a href="https://github.com/luizguilhermeh">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizguilhermeh&layout=compact&langs_count=7"style="max-width: 100%;"></a>
