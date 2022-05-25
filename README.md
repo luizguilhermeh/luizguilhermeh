@@ -23,7 +23,7 @@
 <img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 
 
-<h3>Hard Skills 🧠​💡​<h3>
+<h3>Hard Skills 🧠​💡​</h3>
 <a>
 <img align="center" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white " />
 <img align="center" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
@@ -34,6 +34,6 @@
 <img align="center" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white " />
 </a>
 
-|<br>
+|<br />
 <a href="https://github.com/luizguilhermeh">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizguilhermeh&layout=compact&langs_count=7"style="max-width: 100%;"></a>
