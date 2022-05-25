@@ -1,8 +1,9 @@
 
-Oi
+<p>Oi
 Eu sou um Analista de TI, buscando uma oportunidade de migrar para a área de programação, afim de colaborar nos mais diversos projetos de Front-End. <br>
 -Atualmente estou em um programa para capacitar desenvolvedores FullStack, onde estou aprimorando minhas habilidades em programação e aprendendo mais sobre os frameworks. <br>
 -Estou estudando pelo Devmedia e tenho o apoio da minha namorada para estudar pela Alura.
+</p>
 
 <h3>Contatos 📞</h3>
 
@@ -21,7 +22,7 @@ Eu sou um Analista de TI, buscando uma oportunidade de migrar para a área de pr
 <img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 
 
-<h3>Hard Skills 🧠​💡​<h3> <br>
+<h3>Hard Skills 🧠​💡​<h3>
 <a>
 <img align="center" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white " />
 <img align="center" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
@@ -32,7 +33,6 @@ Eu sou um Analista de TI, buscando uma oportunidade de migrar para a área de pr
 <img align="center" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white " />
 </a>
 
-<br>
-
+<a href="https://github.com/luizguilhermeh">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizguilhermeh&layout=compact)](https://github.com/luizguilhermeh/github-readme-stats)
-</a>
+ </a>
