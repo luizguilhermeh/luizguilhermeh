@@ -4,7 +4,7 @@ Eu sou um Analista de TI, buscando uma oportunidade de migrar para a área de pr
 -Atualmente estou em um programa para capacitar desenvolvedores FullStack, onde estou aprimorando minhas habilidades em programação e aprendendo mais sobre os frameworks. <br>
 -Estou estudando pelo Devmedia e tenho o apoio da minha namorada para estudar pela Alura.
 
-Contatos 📞
+<h3>Contatos 📞</h3>
 
 <a href="https://github.com/luizguilhermeh"> </a>
 
@@ -17,12 +17,12 @@ Contatos 📞
 <a href="https://pt.stackoverflow.com/users/199423/luizguilhermeh"> 
 <img align="center" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a> 
 
-<a href="tel:+5562982377912">
+<a href="tel:+55062982377912">
 <img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a> 
 
 
 
-<h2>Hard Skills 🧠​💡​<h2> <br>
+<h3>Hard Skills 🧠​💡​<h3> <br>
 <a>
 <img align="center" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white " />
 <img align="center" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
@@ -33,4 +33,6 @@ Contatos 📞
 <img align="center" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white " />
 </a>
 
+<a>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizguilhermeh&layout=compact)](https://github.com/luizguilhermeh/github-readme-stats)
+</a>
