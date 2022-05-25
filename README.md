@@ -38,3 +38,5 @@
 
 <a href="https://github.com/luizguilhermeh">
 <img height="180em" src= "https://github-readme-stats.vercel.app/api?username=luizguilhermeh&show_icons=true&theme=radical"style="max-width: 100%;></a>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=luizguilhermeh&show_icons=true&theme=radical)
