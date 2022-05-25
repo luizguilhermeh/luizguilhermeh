@@ -1,9 +1,9 @@
 
-<p>Oi
+<h4>Oi
 Eu sou um Analista de TI, buscando uma oportunidade de migrar para a área de programação, afim de colaborar nos mais diversos projetos de Front-End. <br>
 -Atualmente estou em um programa para capacitar desenvolvedores FullStack, onde estou aprimorando minhas habilidades em programação e aprendendo mais sobre os frameworks. <br>
 -Estou estudando pelo Devmedia e tenho o apoio da minha namorada para estudar pela Alura.
-</p>
+</h4>
 
 <h3>Contatos 📞</h3>
 
