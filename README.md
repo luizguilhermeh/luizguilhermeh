@@ -4,8 +4,8 @@
 <h4>🔭 Atualmente estou em um programa para capacitar desenvolvedores FullStack, onde estou aprimorando minhas habilidades em programação e aprendendo mais sobre frameworks. </h4>
 <h4>🌱 Estou estudando pelo Devmedia e Alura, em busca de aprimorar meu conhecimento técnico e também minhas soft skills. </h4>
 
-### 📫 Contatos 📞
-
+### 📫🔹🔹Contatos🔹🔹📞
+<p>
 <a href="https://www.linkedin.com/in/luizguilhermecosta/" target="_blank" rel="nofollow"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
 
 <a href="mailto:luizguilhermehgo@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
@@ -13,8 +13,9 @@
 <a href="https://pt.stackoverflow.com/users/199423/luizguilhermeh" target="_blank"><img align="center" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" target="_blank"></a> 
 
 <a href="https://telegram.me/luizguilhermeh" target="_blank"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
+<p>
 
-### 🧠 Hard Skills 💡
+### 🧠🔹🔹Hard Skills🔹🔹💡
 
 <p>
 <img align="center" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white " alt="Angular"/>
