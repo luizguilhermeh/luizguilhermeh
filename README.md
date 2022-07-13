@@ -4,31 +4,39 @@
 <h4>🔭 Atualmente estou em um programa para capacitar desenvolvedores FullStack, onde estou aprimorando minhas habilidades em programação e aprendendo mais sobre frameworks. </h4>
 <h4>🌱 Estou estudando pelo Devmedia e Alura, em busca de aprimorar meu conhecimento técnico e também minhas soft skills. </h4>
 
-### 📫🔹🔹Contatos🔹🔹📞
-<p>
-<a href="https://www.linkedin.com/in/luizguilhermecosta/" target="_blank" rel="nofollow"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
+### 📫  Contatos  📞
 
-<a href="mailto:luizguilhermehgo@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
+<div>
+<a href="https://www.linkedin.com/in/luizguilhermecosta" target="_blank" rel="nofollow">
+  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
 
-<a href="https://pt.stackoverflow.com/users/199423/luizguilhermeh" target="_blank"><img align="center" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" target="_blank"></a> 
+<a href="mailto:luizguilhermehgo@gmail.com" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
 
-<a href="https://telegram.me/luizguilhermeh" target="_blank"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
-<p>
+<a href="https://pt.stackoverflow.com/users/199423/luizguilhermeh" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" target="_blank"></a> 
 
-### 🧠🔹🔹Hard Skills🔹🔹💡
+<a href="https://telegram.me/luizguilhermeh" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
+</div>
 
-<p>
-<img align="center" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white " alt="Angular"/>
+### 🧠  Hard Skills  💡
+
+<div>
+<img align="center" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
 <img align="center" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Boostrap" />
-<img align="center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB " alt="React" />
-<img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white " alt="HTML"/>
-<img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white " alt="CSS" />
-<img align="center" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white " alt="TypeScript" />
-<img align="center" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white " alt="VSCode" />
-</p>
+<img align="center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+<img align="center" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
+<img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+<img align="center" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VSCode" />
+</div>
 
+<p>
+  
+<div>
 <a href="https://github.com/luizguilhermeh">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizguilhermeh&layout=compact&langs_count=7"style="max-width: 100%;"></a>
-
 <a href="https://github.com/luizguilhermeh">
 <img height="180em" src= "https://github-readme-stats.vercel.app/api?username=luizguilhermeh&show_icons=true&theme=radical"style="max-width: 100%;"></a>
+</div>
