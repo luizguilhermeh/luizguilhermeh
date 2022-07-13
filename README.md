@@ -4,7 +4,7 @@
 <h4>🔭 Atualmente estou em um programa para capacitar desenvolvedores FullStack, onde estou aprimorando minhas habilidades em programação e aprendendo mais sobre frameworks. </h4>
 <h4>🌱 Estou estudando pelo Devmedia e Alura, em busca de aprimorar meu conhecimento técnico e também minhas soft skills. </h4>
 
-<h3>📫 Contatos 📞</h3>
+<h3>📫 Contatos</h3>
 
 <a href="https://github.com/luizguilhermeh">
 
@@ -21,7 +21,7 @@
 <img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 
 
-<h3>Hard Skills 🧠​💡​</h3>
+<h3>🧠​💡​ Hard Skills </h3>
 
 <p>
 <img align="center" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white " alt="Angular"/>
